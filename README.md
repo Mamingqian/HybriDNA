@@ -4,6 +4,7 @@ A Hybrid Transformer-Mamba2 Long-Range DNA Language Model
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.10807-b31b1b.svg)](https://arxiv.org/abs/2502.10807)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Collection-yellow)](https://huggingface.co/collections/Mishamq/hybridna)
 
 ## Overview
 
